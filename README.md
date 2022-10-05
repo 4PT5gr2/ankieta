@@ -11,6 +11,7 @@
 * Dokumentacja: Karol Tokarek, Wojtek
 ### Scope
 Frontend:
-*
+* Formularz logowania
+* Resetowanie hasła
 Backend:
-*
+* Logowanie

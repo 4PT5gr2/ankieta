@@ -9,3 +9,8 @@
 * JS: Jakub Przybysz, Błażej Skrobek
 * HTML/CSS: reszta
 * Dokumentacja: Karol Tokarek, Wojtek
+### Scope
+Frontend:
+*
+Backend:
+*

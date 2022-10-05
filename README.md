@@ -9,9 +9,3 @@
 * JS: Jakub Przybysz, Błażej Skrobek
 * HTML/CSS: reszta
 * Dokumentacja: Karol Tokarek, Wojtek
-### Scope
-Frontend:
-* Formularz logowania
-* Resetowanie hasła
-Backend:
-* Logowanie
